@@ -49,4 +49,7 @@ if __name__ == "__main__":
 
 SlIDES: 
 
+[Técnico desenvolvimento de sistemas (1).pdf](https://github.com/user-attachments/files/21946160/Tecnico.desenvolvimento.de.sistemas.1.pdf)
+Fluxograma: 
+[FLUXOGRAMA ONIBUS.pdf](https://github.com/user-attachments/files/21946162/FLUXOGRAMA.ONIBUS.pdf)
 
