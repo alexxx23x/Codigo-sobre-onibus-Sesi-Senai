@@ -48,5 +48,5 @@ if __name__ == "__main__":
     main()
 
 SlIDES: 
-[Técnico desenvolvimento de sistemas.pdf](https://github.com/user-attachments/files/21927601/Tecnico.desenvolvimento.de.sistemas.pdf)
+
 
