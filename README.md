@@ -1,5 +1,9 @@
-# Codigo-sobre-onibus-Sesi-Senai
+[out (1).csv](https://github.com/user-attachments/files/21946188/out.1.csv)# Codigo-sobre-onibus-Sesi-Senai
 # Alex José das Neves Junior e Hariel Ramadan Mohamed
+
+
+[Uploading out (1).csv…]()
+
 
 [contador_passageiros.py](https://github.com/user-attachments/files/21927702/contador_passageiros.py)def processar_viagem(linha):
     dados = linha.strip().split(",")[1:]  
