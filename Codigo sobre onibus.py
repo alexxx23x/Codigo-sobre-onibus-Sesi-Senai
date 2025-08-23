@@ -21,7 +21,7 @@ def main():
     tamanho_bloco = 10  
     totais_por_bloco = {}
 
-    linha_num = 1
+    linha_num = 0
     for inicio in range(0, len(linhas), tamanho_bloco):
         fim = min(inicio + tamanho_bloco, len(linhas))
         soma_bloco = 0
@@ -42,4 +42,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
